@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a rel="me" href="https://scholar.social/@lpryszcz">Mastodon</a>
+<a href="https://scholar.social/@lpryszcz" rel="me" >Mastodon</a>
 
 <!--
 **lpryszcz/lpryszcz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
